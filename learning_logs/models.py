@@ -21,4 +21,7 @@ class Entry(models.Model):
 
     def __str__(self):
         """Повертає представленя моделі у string."""
-        return f"{self.text[:50]}..."
+        if len(self.text) > 50:
+            return f"{self.text[:50]}..."
+        return f"{self.text[:]}"
+
