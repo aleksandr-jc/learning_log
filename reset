@@ -1,0 +1,55 @@
+[33mcommit bc9f6300a66c9444c9036f6400ff47d714c445d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f1c21bf dd60cfd
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Thu Oct 27 15:43:22 2022 +0300
+
+    Merge branch 'master' of https://github.com/aleksandr-jc/learning_log
+
+[33mcommit f1c21bf4b120cd9c728b9dc83fe9ea09483b9c32[m
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Thu Oct 27 15:34:52 2022 +0300
+
+    Added user input and editing
+
+[33mcommit dd60cfd1abd25320ff9077be2f4c54a150840ac7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aleksandr-jc <105751326+aleksandr-jc@users.noreply.github.com>
+Date:   Mon Oct 17 17:39:39 2022 +0300
+
+    Update README.md
+
+[33mcommit 0eb96aa60808c5aeee21c2feaa684c7248b0a8ea[m
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Mon Oct 17 17:37:13 2022 +0300
+
+    Learning Log with templates
+
+[33mcommit 150e1bc0d5dd82bd914f09913b8aa3bb3654fc77[m
+Merge: 0a9cb9a 41c9d60
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Mon Oct 10 19:05:49 2022 +0300
+
+    Merge https://github.com/aleksandr-jc/learning_log
+
+[33mcommit 0a9cb9a668870d891494a6ed314becb632c116a4[m
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Mon Oct 10 19:04:17 2022 +0300
+
+    18_2 upgrate
+
+[33mcommit 41c9d6026359b21b5979f091e3f0c46ac4b59a7c[m
+Author: aleksandr-jc <105751326+aleksandr-jc@users.noreply.github.com>
+Date:   Sun Oct 9 20:54:38 2022 +0300
+
+    Create README.md
+
+[33mcommit b0549ae989224c5d810ef1ccdeaf5f297a835ca6[m
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Sun Oct 9 20:49:23 2022 +0300
+
+    Topics + Superuser + Entry
+
+[33mcommit 844d1fa26f5bd7bb532b6249a0db43239026de84[m
+Author: Alex Robu <aleksandr.robu@icloud.com>
+Date:   Sun Oct 9 18:18:32 2022 +0300
+
+    Create project, and venv
